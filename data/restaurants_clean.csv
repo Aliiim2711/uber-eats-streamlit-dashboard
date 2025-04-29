@@ -1,0 +1,4 @@
+id,name,score,category,price_range,full_address
+1,Burger King,4.6,Burgers,$,"Los Angeles, CA, USA"
+2,Pizza Hut,4.2,Pizza,$$,"New York, NY, USA"
+3,Taco Bell,3.9,Mexican,$,"Miami, FL, USA"
